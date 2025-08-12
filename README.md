@@ -1,20 +1,16 @@
-![legacy-code development](https://media0.giphy.com/media/v1.Y2lkPTdiYzJhNDkwbGtpam41YmdtbGFxeGlzZmk4cHNjNWpybjlid21wcDFlaWVsOHZocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v4aS1W904KdjJagsux/giphy.gif)
-
 # Introduction
-Bonjour! Je suis nonameebyrator985, un développeur passionné avec une expertise en développement web et mobile. J'aime créer des solutions innovantes et efficaces.
+Bonjour ! Je suis nonameebyrator985, un développeur passionné par la technologie et l'innovation. J'aime apprendre de nouvelles compétences et travailler sur des projets intéressants.
 
-# Skills
-- Développement web (HTML, CSS, JavaScript)
-- Frameworks (React, Angular)
-- Développement mobile (Flutter, React Native)
-- Gestion de bases de données (SQL, NoSQL)
-- Méthodologies Agile
+# Compétences
+- Développement Web (HTML, CSS, JavaScript)
+- Frameworks (React, Vue.js)
+- Langages de programmation (Python, Java)
+- Gestion de version (Git, GitHub)
 
-# Projects
-- **Portfolio**: Un site web personnel pour présenter mes projets et compétences.
-- **Application de gestion de tâches**: Une application mobile pour aider à organiser les tâches quotidiennes.
-- **Blog technique**: Un blog où je partage des articles sur le développement et les nouvelles technologies.
+# Projets
+- **Mon Portfolio** : Un site personnel pour présenter mes projets et compétences.
+- **Application de Gestion de Tâches** : Une application web pour organiser vos tâches quotidiennes.
+- **Blog Technique** : Un blog où je partage des articles sur le développement et la technologie.
 
 # Contacts
-- Email: nonameebyrator985@example.com
-- LinkedIn: [linkedin.com/in/nonameebyrator985](https://www.linkedin.com/in/nonameebyrator985)
+N'hésitez pas à me contacter via mes réseaux sociaux ou par email : nonameebyrator985@example.com.
